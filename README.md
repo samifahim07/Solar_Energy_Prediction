@@ -46,8 +46,8 @@ pip install -r requirements.txt
 
 The model was trained and evaluated using standard machine learning techniques. Different evaluation metrics were used to compare the model performance.
 
-**<img width="801" height="901" alt="image" src="https://github.com/user-attachments/assets/e7f5762a-5465-4212-b40f-c4de10ab955c" />
-**
+<img width="801" height="901" alt="image" src="https://github.com/user-attachments/assets/e7f5762a-5465-4212-b40f-c4de10ab955c" />
+
 
 ## Author
 
